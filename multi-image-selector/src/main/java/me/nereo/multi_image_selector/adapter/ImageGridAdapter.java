@@ -214,7 +214,7 @@ public class ImageGridAdapter extends BaseAdapter {
                 indicator.setVisibility(View.VISIBLE);
                 if (mSelectedImages.contains(data)) {
                     // 设置选中状态
-                    indicator.setImageResource(R.drawable.mis_checked_button);
+                    indicator.setImageResource(R.drawable.mis_checked_button2);
 //                    mask.setVisibility(View.VISIBLE);
                 } else {
                     // 未选择
